@@ -1,3 +1,6 @@
+"""
+Name:Fantao ji
+"""
 def main():
     score = float(input("Please input your score"))
     if score < 0 or score > 100:
